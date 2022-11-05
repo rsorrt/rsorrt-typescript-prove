@@ -1,0 +1,13 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+body {
+  margin:30px;
+  background-color: seashell;
+  border: 2px solid orchid;
+  border-radius: 8px;
+  padding:20px;
+  min-height: 300px;;
+
+}
