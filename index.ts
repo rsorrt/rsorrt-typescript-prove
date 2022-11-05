@@ -1,11 +1,14 @@
 
+import { Prova1 } from './prove/Prova1';
 import './style.css';
 
 const appDiv = document.getElementById('app') as HTMLElement;
 //const appDiv = document.getElementById('app') as HTMLElement;
 appDiv.innerHTML = `<h1>TypeScript here...</h1>`;
 
+Prova1.test1();
 
+/*
 
  interface People {
   name: string, 
@@ -30,7 +33,7 @@ const people= async () : Promise<People> => {
 
 let luke = people();
 
-
+*/
 
 
 /*
